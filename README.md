@@ -115,7 +115,7 @@ get-full-year-rs/
 Clone the repository and run the following command to install dependencies:
 
 ```
-git clone https://github.com/yourusername/get-full-year-rs.git
+git clone https://github.com/mcnaveen/get-full-year-rs.git
 cd get-full-year-rs
 ```
 
